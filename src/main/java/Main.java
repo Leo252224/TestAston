@@ -5,6 +5,10 @@ public class Main {
 
         System.out.println("Good By World");
 
+//изменения
+        //еще добавлячея
+        //
+
 
     }
 
