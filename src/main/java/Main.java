@@ -18,6 +18,7 @@ public class Main {
             System.out.println("Результат неудался");
         }
         System.out.println("==================================\n");
+        System.out.println();
 
 
         // Задача номер 2
